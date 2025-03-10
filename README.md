@@ -18,3 +18,8 @@ https://https://getsolara.live
 
 swift:
 https://getswift.xyz
+
+
+
+wave:
+https://getwave.gg
