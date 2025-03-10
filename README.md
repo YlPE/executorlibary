@@ -23,3 +23,8 @@ https://getswift.xyz
 
 wave:
 https://getwave.gg
+
+
+
+velocity:
+https://www.getvelocity.live
