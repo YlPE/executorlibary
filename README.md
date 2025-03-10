@@ -1,6 +1,11 @@
 # executorlibary
 here is a list of executors i have found:
 
+
+PC:
+
+
+
 xeno:
 https://xeno.now
 
@@ -28,3 +33,12 @@ https://getwave.gg
 
 velocity:
 https://www.getvelocity.live
+
+
+
+
+
+IOS
+
+delta:
+https://deltaexploits.gg
