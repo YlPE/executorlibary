@@ -42,3 +42,14 @@ IOS
 
 delta:
 https://deltaexploits.gg
+---------------------------------------------------------
+scripts:
+
+
+MSPAINT: 
+https://www.mspaint.cc
+
+
+infinite yield:
+https://infyiff.github.io
+
