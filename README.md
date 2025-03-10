@@ -12,7 +12,7 @@ https://cloudyweb.vercel.app
 
 
 solara:
-https://https://getsolara.live
+https://getsolara.live
 
 
 
