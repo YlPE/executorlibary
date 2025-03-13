@@ -52,4 +52,8 @@ https://www.mspaint.cc
 
 infinite yield:
 https://infyiff.github.io
+-----------------------------
+tools:
+alt maker: https://www.altgenator.com/commands
+account manager: https://github.com/ic3w0lf22/Roblox-Account-Manager
 
